@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elsa_Scan_V2.PLL", "Elsa_Scan_V2.PLL\Elsa_Scan_V2.PLL.csproj", "{67BDDDD8-B78F-4D68-AB66-41B23745570D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elsa_Scan_V2.DAL", "Elsa_Scan_V2.DAL\Elsa_Scan_V2.DAL.csproj", "{798A58A8-9519-4296-BC24-C5F683387188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elsa_Scan_V2.BLL", "Elsa_Scan_V2.BLL\Elsa_Scan_V2.BLL.csproj", "{2D64AEF1-AE6E-45CF-B50E-C72D5D6888CB}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "Elsa_Scan_Installer", "Elsa_Scan_Installer\Elsa_Scan_Installer.vddproj", "{4B1EE38B-91A1-46D1-B1F3-D06D024F5BDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseTesting", "DatabaseTesting\DatabaseTesting.csproj", "{BA7D9327-DB85-4358-9679-F932D8305043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67BDDDD8-B78F-4D68-AB66-41B23745570D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BDDDD8-B78F-4D68-AB66-41B23745570D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BDDDD8-B78F-4D68-AB66-41B23745570D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{67BDDDD8-B78F-4D68-AB66-41B23745570D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BDDDD8-B78F-4D68-AB66-41B23745570D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67BDDDD8-B78F-4D68-AB66-41B23745570D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{798A58A8-9519-4296-BC24-C5F683387188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798A58A8-9519-4296-BC24-C5F683387188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798A58A8-9519-4296-BC24-C5F683387188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798A58A8-9519-4296-BC24-C5F683387188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D64AEF1-AE6E-45CF-B50E-C72D5D6888CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D64AEF1-AE6E-45CF-B50E-C72D5D6888CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D64AEF1-AE6E-45CF-B50E-C72D5D6888CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D64AEF1-AE6E-45CF-B50E-C72D5D6888CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B1EE38B-91A1-46D1-B1F3-D06D024F5BDE}.Debug|Any CPU.ActiveCfg = Debug
+		{4B1EE38B-91A1-46D1-B1F3-D06D024F5BDE}.Release|Any CPU.ActiveCfg = Release
+		{BA7D9327-DB85-4358-9679-F932D8305043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7D9327-DB85-4358-9679-F932D8305043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7D9327-DB85-4358-9679-F932D8305043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

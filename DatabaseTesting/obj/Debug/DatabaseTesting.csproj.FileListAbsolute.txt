@@ -1,0 +1,8 @@
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\DatabaseTesting\bin\Debug\DatabaseTesting.exe
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\DatabaseTesting\bin\Debug\DatabaseTesting.pdb
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\DatabaseTesting\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\DatabaseTesting\obj\Debug\DatabaseTesting.exe
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\DatabaseTesting\obj\Debug\DatabaseTesting.pdb
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\DatabaseTesting\bin\Debug\Elsa_Scan_V2.DAL.dll
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\DatabaseTesting\bin\Debug\System.Data.SqlClient.dll
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\DatabaseTesting\bin\Debug\Elsa_Scan_V2.DAL.pdb

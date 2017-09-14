@@ -1,0 +1,10 @@
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.BLL\bin\Debug\Elsa_Scan_V2.BLL.dll
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.BLL\bin\Debug\Elsa_Scan_V2.BLL.pdb
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.BLL\bin\Debug\Elsa_Scan_V2.DAL.dll
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.BLL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.BLL\bin\Debug\Elsa_Scan_V2.DAL.pdb
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.BLL\obj\Debug\Elsa_Scan_V2.PLL.ReportScreen.resources
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.BLL\obj\Debug\Elsa_Scan_V2.BLL.csproj.GenerateResource.Cache
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.BLL\obj\Debug\Elsa_Scan_V2.BLL.dll
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.BLL\obj\Debug\Elsa_Scan_V2.BLL.pdb

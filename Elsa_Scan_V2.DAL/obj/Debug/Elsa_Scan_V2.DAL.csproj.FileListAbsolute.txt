@@ -1,0 +1,12 @@
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.DAL\bin\Debug\Elsa_Scan_V2.DAL.dll
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.DAL\bin\Debug\Elsa_Scan_V2.DAL.pdb
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.DAL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.DAL\obj\Debug\Elsa_Scan_V2.DAL.dll
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.DAL\obj\Debug\Elsa_Scan_V2.DAL.pdb
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.DAL\bin\Debug\System.Data.OracleClient.dll
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.DAL\bin\Debug\System.Transactions.dll
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.DAL\bin\Debug\System.EnterpriseServices.dll
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.DAL\bin\Debug\System.Web.dll
+C:\Users\BrBo\Documents\Visual Studio 2008\Projects\Elsa_Scan_V2\Elsa_Scan_V2.DAL\bin\Debug\System.EnterpriseServices.Wrapper.dll
