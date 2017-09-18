@@ -44,44 +44,44 @@
             // label1
             // 
             this.label1.BackColor = System.Drawing.Color.Silver;
-            this.label1.Location = new System.Drawing.Point(4, 59);
+            this.label1.Location = new System.Drawing.Point(4, 85);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(234, 45);
+            this.label1.Size = new System.Drawing.Size(234, 37);
             this.label1.Text = "Please fill in your login details, to use the application.";
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // label2
             // 
             this.label2.BackColor = System.Drawing.Color.Silver;
-            this.label2.Location = new System.Drawing.Point(4, 50);
+            this.label2.Location = new System.Drawing.Point(4, 80);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(234, 10);
+            this.label2.Size = new System.Drawing.Size(234, 5);
             this.label2.TextAlign = System.Drawing.ContentAlignment.TopRight;
             // 
             // lbl_Username
             // 
-            this.lbl_Username.Location = new System.Drawing.Point(4, 108);
+            this.lbl_Username.Location = new System.Drawing.Point(4, 125);
             this.lbl_Username.Name = "lbl_Username";
             this.lbl_Username.Size = new System.Drawing.Size(234, 20);
             this.lbl_Username.Text = "Username:";
             // 
             // txb_Username
             // 
-            this.txb_Username.Location = new System.Drawing.Point(4, 132);
+            this.txb_Username.Location = new System.Drawing.Point(4, 147);
             this.txb_Username.Name = "txb_Username";
             this.txb_Username.Size = new System.Drawing.Size(234, 23);
             this.txb_Username.TabIndex = 4;
             // 
             // lbl_Password
             // 
-            this.lbl_Password.Location = new System.Drawing.Point(4, 162);
+            this.lbl_Password.Location = new System.Drawing.Point(4, 176);
             this.lbl_Password.Name = "lbl_Password";
             this.lbl_Password.Size = new System.Drawing.Size(234, 20);
             this.lbl_Password.Text = "Password:";
             // 
             // txb_Password
             // 
-            this.txb_Password.Location = new System.Drawing.Point(4, 186);
+            this.txb_Password.Location = new System.Drawing.Point(4, 195);
             this.txb_Password.Name = "txb_Password";
             this.txb_Password.PasswordChar = '*';
             this.txb_Password.Size = new System.Drawing.Size(234, 23);
@@ -98,12 +98,12 @@
             // 
             // pic_damco
             // 
-            this.pic_damco.BackColor = System.Drawing.Color.Black;
+            this.pic_damco.BackColor = System.Drawing.Color.White;
             this.pic_damco.Image = ((System.Drawing.Image)(resources.GetObject("pic_damco.Image")));
             this.pic_damco.Location = new System.Drawing.Point(4, 4);
             this.pic_damco.Name = "pic_damco";
-            this.pic_damco.Size = new System.Drawing.Size(234, 43);
-            this.pic_damco.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pic_damco.Size = new System.Drawing.Size(234, 73);
+            this.pic_damco.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             // 
             // LoginScreen
             // 

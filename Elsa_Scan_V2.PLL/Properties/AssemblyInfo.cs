@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Ordina")]
-[assembly: AssemblyProduct("Elsa_Scan_V2.PLL")]
+[assembly: AssemblyProduct("Elsa_Scan_V2")]
 [assembly: AssemblyCopyright("Copyright © Ordina 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
